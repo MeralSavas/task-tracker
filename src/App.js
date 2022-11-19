@@ -1,7 +1,8 @@
 import "./App.css";
+import Card from "./components/Card";
 
 function App() {
-  return <h1>task tracker</h1>;
+  return <h1></h1>;
 }
 
 export default App;
