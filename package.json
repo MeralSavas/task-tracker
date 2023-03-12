@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/MeralSavas/task-tracker",
   "name": "task-tracker",
+  "homepage": "https://github.com/MeralSavas/task-tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
