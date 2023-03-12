@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MeralSavas/task-tracker/static/css/main.073c9b0a.css",
+    "main.js": "/MeralSavas/task-tracker/static/js/main.87b52c17.js",
+    "index.html": "/MeralSavas/task-tracker/index.html",
+    "main.073c9b0a.css.map": "/MeralSavas/task-tracker/static/css/main.073c9b0a.css.map",
+    "main.87b52c17.js.map": "/MeralSavas/task-tracker/static/js/main.87b52c17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.87b52c17.js"
+  ]
+}
