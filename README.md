@@ -10,17 +10,9 @@
 
 Project aims to create a Task Tracker App using React.
 
-## Learning Outcomes
+## Used Language
 
-At the end of the project, you will be able to;
-
-- improve coding skills within HTML & CSS & JS & ReactJS.
-
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
-
-## Problem Statement
-
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
+- HTML & CSS & JS & ReactJS.
 
 ## Project Skeleton
 
@@ -48,7 +40,6 @@ Task Tracker Project(folder)
 ├── package.json
 └── yarn.lock
 ```
-
 
 ## Notes
 
