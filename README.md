@@ -2,10 +2,6 @@
 
 ## Check The Live Website ➡️ [Live Website](https://cooper-tasktracker.netlify.app/)
 
-## Visualization of the Website
-
-![Form](./task-tracker.gif)
-
 ## Description
 
 Project aims to create a Task Tracker App using React.
