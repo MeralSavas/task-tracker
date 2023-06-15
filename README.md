@@ -47,9 +47,7 @@ Task Tracker Project(folder)
 
 - Step 2 : I install `"react-icons"` package to `package.json` for icons.
 
-- Step 3: Build Task Tracker App.
-
-- Step 4: I used CSS frameworks like Bootstrap, Semantic UI.
+- Step 3: I used CSS frameworks like Bootstrap, Semantic UI.
 
 ## Resources
 
