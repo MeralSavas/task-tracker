@@ -45,7 +45,3 @@ Task Tracker Project(folder)
 
 - Step 3: I used CSS frameworks like Bootstrap, Semantic UI.
 
-## Resources
-
-- 🔥 You can use [`data.js`](./src/helper/data.js) for your own work.
-
